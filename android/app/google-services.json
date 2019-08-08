@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "105664164419",
+    "firebase_url": "https://phamaforms.firebaseio.com",
+    "project_id": "phamaforms",
+    "storage_bucket": "phamaforms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105664164419:android:e93fef35f4e806b6",
+        "android_client_info": {
+          "package_name": "com.pharmaforms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105664164419-4b01aa0j5pucbm375vpvl5dhr4rtul1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUZRII0TDtoQX1JXAIjIQ95WmdbSP67rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
